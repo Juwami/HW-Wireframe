@@ -3,6 +3,7 @@ body {
     color: #777;
     background: #777;
     width: 960px;
+    /* Width seemed odd, however it was stated in instructions */
     font-size: 18px;
     text-align: center;
 }
